@@ -61,7 +61,7 @@
         "desc": "top des",
         "gender": "Male",
         "category":"Shirts",
-        "price":4567
+        "price":1567
       },
       {
         "id": 8,
@@ -97,7 +97,7 @@
         "desc": "top des",
         "gender": "Male",
         "category":"Shirts",
-        "price":4567
+        "price":567
       },
       {
         "id": 12,
