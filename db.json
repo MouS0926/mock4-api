@@ -107,6 +107,15 @@
         "gender": "Male",
         "category":"Trousers",
         "price":234
+      },
+      {
+        "id": 13,
+        "name": "trouser",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20221018/nyDu/634e819df997ddfdbd2f24df/-473Wx593H-443002265-olivegreen-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Male",
+        "category":"Trousers",
+        "price":890
       }
     ]
   }
