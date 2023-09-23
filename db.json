@@ -2,27 +2,112 @@
     "users": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20230819/G69C/64dfc5c1afa4cf41f55fd7cd/-473Wx593H-466474215-white-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Female",
+        "category":"Kurti",
+        "price":2345
       },
       {
         "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20230810/4Ryy/64d4e664a9b42d15c9a0f847/-473Wx593H-466442325-green-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Female",
+        "category":"Kurti",
+        "price":1234
       },
       {
         "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
+        "name": "Shirts",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20221102/vYLE/6362490ef997ddfdbd510a21/-473Wx593H-443002372-darkred-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Male",
+        "category":"Shirts",
+        "price":4567
       },
       {
         "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20221018/nyDu/634e819df997ddfdbd2f24df/-473Wx593H-443002265-olivegreen-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Male",
+        "category":"Trousers",
+        "price":234
+      },
+      {
+        "id": 5,
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20230819/G69C/64dfc5c1afa4cf41f55fd7cd/-473Wx593H-466474215-white-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Female",
+        "category":"Kurti",
+        "price":2345
+      },
+      {
+        "id": 6,
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20230810/4Ryy/64d4e664a9b42d15c9a0f847/-473Wx593H-466442325-green-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Female",
+        "category":"Kurti",
+        "price":1234
+      },
+      {
+        "id": 7,
+        "name": "Shirts",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20221102/vYLE/6362490ef997ddfdbd510a21/-473Wx593H-443002372-darkred-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Male",
+        "category":"Shirts",
+        "price":4567
+      },
+      {
+        "id": 8,
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20221018/nyDu/634e819df997ddfdbd2f24df/-473Wx593H-443002265-olivegreen-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Male",
+        "category":"Trousers",
+        "price":234
+      },
+      {
+        "id": 9,
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20230819/G69C/64dfc5c1afa4cf41f55fd7cd/-473Wx593H-466474215-white-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Female",
+        "category":"Kurti",
+        "price":2345
+      },
+      {
+        "id": 10,
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20230810/4Ryy/64d4e664a9b42d15c9a0f847/-473Wx593H-466442325-green-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Female",
+        "category":"Kurti",
+        "price":1234
+      },
+      {
+        "id": 11,
+        "name": "Shirts",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20221102/vYLE/6362490ef997ddfdbd510a21/-473Wx593H-443002372-darkred-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Male",
+        "category":"Shirts",
+        "price":4567
+      },
+      {
+        "id": 12,
+        "name": "Kurti S",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20221018/nyDu/634e819df997ddfdbd2f24df/-473Wx593H-443002265-olivegreen-MODEL.jpg",
+        "desc": "top des",
+        "gender": "Male",
+        "category":"Trousers",
+        "price":234
       }
     ]
   }
+
